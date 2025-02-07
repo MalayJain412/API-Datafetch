@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 # Define API Key and Location
-API_KEY = "617d22d5b7cf4b05889194950250502"  # Replace with your actual API key
+API_KEY = "###########################"  # Replace with your actual API key
 LOCATION = "Delhi,IN"
 BASE_URL = "http://api.weatherapi.com/v1/history.json"
 
